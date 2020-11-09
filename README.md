@@ -3,6 +3,8 @@
 I'm Matisse Page.
   
   I'm currently a student at Epitech Montpellier but i'm also in intership in Sequoiasoft where I programme in AngularJs and PHP.
+  
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **matissepage/matissepage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
