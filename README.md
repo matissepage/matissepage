@@ -2,10 +2,9 @@
 
 I'm Matisse Page.
   
-  I'm currently student at Epitech Montpellier.
+  I'm currently a student at Epitech Montpellier but i'm also in intership in Sequoiasoft where I programme in AngularJs and PHP.
 <!--
 **matissepage/matissepage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
