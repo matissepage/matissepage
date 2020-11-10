@@ -5,7 +5,7 @@ I'm Matisse Page.
   I'm currently a student at Epitech Montpellier but i'm also in intership in Sequoiasoft where I programme in AngularJs and PHP.
   
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matissepage&theme=blue-green)](https://github.com/matissepage/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matissepage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
