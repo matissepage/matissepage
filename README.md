@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 I'm Matisse Page.
+
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/matisse-page"
   
   I'm currently a student at Epitech Montpellier but i'm also in intership in Sequoiasoft where I programme in AngularJs and PHP.
 
