@@ -2,7 +2,7 @@
 
 I'm Matisse Page.
   
-  I'm currently a student at Epitech Montpellier but i'm also in intership in Sequoiasoft where I programme in AngularJs and PHP.
+  I'm currently a student at Epitech Montpellier
 
 
 GitHub Stat :
