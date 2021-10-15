@@ -2,7 +2,7 @@
 
 I'm Matisse Page.
 
-🎓 Currently a 3rd year student at Epitech Montpellier, I am developing skills related to programming and innovation in IT. I am also a Project Manager within the Junior Council of Epitech Taker.
+🎓 Currently a 3rd year student at Epitech Montpellier, I am developing skills related to programming and innovation in IT. I'm also a Project Manager within the Junior Council of Epitech Taker.
 
 💪 Thanks to Epitech and my various personal projects, I master different languages ​​such as C, PHP or even JavaScript. I like to learn new technologies, I'm currently training in React, Nodejs. I also learned with my experience as a Project Manager the relationship with clients and teamwork in order to deliver quality projects and on time.
 
