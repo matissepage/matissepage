@@ -2,13 +2,13 @@
 
 I'm Matisse Page.
 
-🎓 Currently a 3rd year student at Epitech Montpellier, I am developing skills related to programming and innovation in IT. I'm also a Project Manager within the Junior Council of Epitech Taker.
+🎓 Currently a 4th year student at Epitech Montpellier. I am in an international year at Long Beach University in California.
 
-💪 Thanks to Epitech and my various personal projects, I master different languages ​​such as C, PHP or even JavaScript. I like to learn new technologies, I'm currently training in React, Nodejs. I also learned with my experience as a Project Manager the relationship with clients and teamwork in order to deliver quality projects and on time.
+💪 Thanks to Epitech and my different personal projects, I develop skills related to programming and innovation in computer science. I like learning new technologies, I master languages like Javascript (React, Nodejs, typescript) or C and C++. I also learned with my experience as a Project Manager the relationship with customers and teamwork to deliver quality projects in time. 
 
-🚀 With my different skills, I was able to do an internship at Sequoia Soft in order to help them redesign their customer portal.
+🚀 I was brought to realise different internships which allowed me to acquire technical skills, but also to be sensitised to make a work deliverable to a customer.
 
-❤️ I'm passionate about sports. I have been playing soccer in club for many years. I was also a coach teams of young players. I'm also discovering other sports such as beach volley, wakeboard or wing foil.
+🫀 I am passionate about sports. I have been practicing for many years soccer in club. I have also been able to coach teams of young players. I am also discovering other sports such as beach volleyball, wakeboard or wingfoil.
 
 📝 If you are interested, do not hesitate to contact me by email at matisse.page@epitech.eu or directly on Linkedin
 
